@@ -1,16 +1,16 @@
-### Hi there 👋
+**About Me!**
 
-<!--
-**facundo9963/facundo9963** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨🏽‍💻 I’m currently study Degree in systems in National University of La Plata.
+-  I’m Full Stack developer JS . 
+-  My interests are web development
+
+
+**Languages and Tools:**  
+
+
+
+
+
+

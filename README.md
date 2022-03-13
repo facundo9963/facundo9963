@@ -1,9 +1,18 @@
+
+<img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
+<br>
+  
+## Hello World! 👋
+
+
 **About Me!**
 
-
+ Hello, my name is Facundo
+ It's a good time to tell you that I really like software development ...and cats
+<img alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 - 👨🏽‍💻 I’m currently study Degree in systems in National University of La Plata.
--  I’m Full Stack developer JS . 
+- ⚡I’m Full Stack developer JS . 
 -  My interests are learn about web development and apply my knowledge in a work environment
 
 

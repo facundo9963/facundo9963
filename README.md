@@ -3,16 +3,17 @@
 <br>
   
 ## Hello World! 👋
-
+I'm Full Stack Developer React and NodeJs
 
 **About Me!**
 
- Hello, my name is Facundo
+ Hello, my name is Facundo, I'm Full Stack Developer React and NodeJs 
+ 
  It's a good time to tell you that I really like software development ...and cats
+ 
 <img alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 - 👨🏽‍💻 I’m currently study Degree in systems in National University of La Plata.
-- ⚡I’m Full Stack developer JS . 
 -  My interests are learn about web development and apply my knowledge in a work environment
 
 

@@ -7,7 +7,7 @@
 
 **About Me!**
 
- Hola, mi nombre es Facundo, soy un Full Stack developer React y NodeJs.
+ Hola, mi nombre es Facundo, soy un Full Stack developer con orientación al backend. Cree varios proyectos utilizando las tecnologías que fui aprendiendo, lo que me ayudó a diseñar y crear aplicaciones con diferentes arquitecturas, diferentes tecnologías, utilizando código altamente reutilizable y facil de entender, analizar y gestionar datos, organizar un equipo de trabajo. Tengo conocimientos en varios lenguajes (javascript, java, c#), en el uso de tecnologías ágiles, GIT, estructuras de datos, preprocesadores CSS, frameworks y librerías importantes de los lenguages que uso. Tengo experiencia desarrollando Frontend y backend utilizando Javascript, React, Vue, Nodejs, Express, nest.js, Java, Springboot, MongoDB, Postgresql.
  <br/>
  Descubrí la programación porque siempre estuve muy en contacto con la tecnología y siempre me interesó saber más. Sumado a esto
  la mayoría de mis amigos de la secundaria estudiaron esa carrera y cuando le empecé a prestar más atención
